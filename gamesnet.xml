@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Telecine Action HD">
+  <channel id="Tcaction.br">
     <display-name lang="pt">Telecine Action HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="Telecine Cult HD">
+  <channel id="Tccult.br">
     <display-name lang="pt">Telecine Cult HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="Telecine Fun HD">
+  <channel id="Tcfun.br">
     <display-name lang="pt">Telecine Fun HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="Telecine Pipoca HD">
+  <channel id="Tcpipoca.br">
     <display-name lang="pt">Telecine Pipoca HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="Telecine Premium HD">
+  <channel id="Tcpremium.br">
     <display-name lang="pt">Telecine Premium HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="Telecine Touch HD">
+  <channel id="Tctouch.br">
     <display-name lang="pt">Telecine Touch HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
