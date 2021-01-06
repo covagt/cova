@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Tcaction.br">
-    <display-name lang="pt">Telecine Action HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Tccult.br">
-    <display-name lang="pt">Telecine Cult HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Tcfun.br">
-    <display-name lang="pt">Telecine Fun HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Tcpipoca.br">
-    <display-name lang="pt">Telecine Pipoca HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
   <channel id="Tcpremium.br">
     <display-name lang="pt">Telecine Premium HD</display-name>
-    <url>http://www.meuguia.tv</url>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Tcaction.br">
+    <display-name lang="pt">Telecine Action HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
   </channel>
   <channel id="Tctouch.br">
     <display-name lang="pt">Telecine Touch HD</display-name>
-    <url>http://www.meuguia.tv</url>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Tcpipoca.br">
+    <display-name lang="pt">Telecine Pipoca HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Tccult.br">
+    <display-name lang="pt">Telecine Cult HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
   </channel>
 </tv>
