@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Tcpremium.br">
+  <channel id="Telecine Premium HD">
     <display-name lang="pt">Telecine Premium HD</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
-  <channel id="Tcaction.br">
+  <channel id="Telecine Action HD">
     <display-name lang="pt">Telecine Action HD</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
@@ -12,15 +12,15 @@
     <display-name lang="pt">Telecine Touch HD</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
-  <channel id="Telecine Fun">
+  <channel id="Telecine Touch HD">
     <display-name lang="pt">Telecine Fun</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
-  <channel id="Tcpipoca.br">
+  <channel id="Telecine Pipoca HD">
     <display-name lang="pt">Telecine Pipoca HD</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
-  <channel id="Tccult.br">
+  <channel id="Telecine Cult HD">
     <display-name lang="pt">Telecine Cult HD</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
